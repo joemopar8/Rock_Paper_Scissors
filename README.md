@@ -1,3 +1,3 @@
-# Rock_Paper_Scissors_project_tutorial
+# Rock_Paper_Scissors
 
 A fun and simple learning project.
